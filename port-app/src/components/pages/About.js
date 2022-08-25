@@ -5,12 +5,12 @@ export default function About() {
     <div>
       <h1>About Page</h1>
       <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
+      Front-end web developer leveraging Science of Nursing background to build a more intuitive user
+        friendly web experience. Recent graduate of UCF's coding boot camp and earned a certificate in full-stack
+        web development. Innovative problem-solver passionate about developing web apps; focused on design and
+        development. Strengths in creativity, teamwork, and building projects from ideation to execution.
+        Frontend: HTML, CSS, JQuery,  Javascript, Bootstrap, AJAX, SASS,
+        Backend: MySQL, MonogoDB, Express, ReactJS, Node, Handlebars, AWS, Webpack, Gulp, Git, Github.
       </p>
     </div>
   );
