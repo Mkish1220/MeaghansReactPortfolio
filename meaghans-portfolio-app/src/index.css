@@ -24,7 +24,7 @@ video {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: #14d4f6;
 }
 
 .overlay {
@@ -33,5 +33,5 @@ video {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #000000cc;
+    background-color: #00000011;
 }
